@@ -1,0 +1,26 @@
+<annotation>
+	<folder>blue</folder>
+	<filename>IMG_1924.jpg</filename>
+	<path>C:\Users\brend\Downloads\object_detection_demo-master\data\images\train\blue\IMG_1924.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1452</xmin>
+			<ymin>1903</ymin>
+			<xmax>1646</xmax>
+			<ymax>2110</ymax>
+		</bndbox>
+	</object>
+</annotation>
