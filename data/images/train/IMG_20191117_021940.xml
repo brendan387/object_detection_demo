@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yellow</folder>
+	<filename>IMG_20191117_021940.jpg</filename>
+	<path>C:\Users\brend\Downloads\object_detection_demo-master\data\images\train\yellow\IMG_20191117_021940.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1264</xmin>
+			<ymin>1697</ymin>
+			<xmax>1821</xmax>
+			<ymax>2278</ymax>
+		</bndbox>
+	</object>
+</annotation>
