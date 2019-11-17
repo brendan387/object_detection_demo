@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red</folder>
+	<filename>76726040_891712987896986_6487058354077171712_n.jpg</filename>
+	<path>C:\Users\brend\Downloads\object_detection_demo-master\data\images\train\red\76726040_891712987896986_6487058354077171712_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>1360</ymin>
+			<xmax>977</xmax>
+			<ymax>1585</ymax>
+		</bndbox>
+	</object>
+</annotation>
