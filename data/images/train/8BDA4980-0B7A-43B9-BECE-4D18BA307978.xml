@@ -1,0 +1,26 @@
+<annotation>
+	<folder>orange</folder>
+	<filename>8BDA4980-0B7A-43B9-BECE-4D18BA307978.jpg</filename>
+	<path>C:\Users\brend\Downloads\object_detection_demo-patch2\data\images\train\orange\8BDA4980-0B7A-43B9-BECE-4D18BA307978.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2587</xmin>
+			<ymin>1661</ymin>
+			<xmax>2801</xmax>
+			<ymax>1847</ymax>
+		</bndbox>
+	</object>
+</annotation>
