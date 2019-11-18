@@ -1,0 +1,26 @@
+<annotation>
+	<folder>green</folder>
+	<filename>IMG_20191117_140420.jpg</filename>
+	<path>C:\Users\brend\Downloads\object_detection_demo-patch2\data\images\train\green\IMG_20191117_140420.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>903</ymin>
+			<xmax>2786</xmax>
+			<ymax>3353</ymax>
+		</bndbox>
+	</object>
+</annotation>
