@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>B8CBA366-532E-4545-A412-E846C87ECEC7.jpg</filename>
+	<path>C:\Users\brend\Downloads\object_detection_demo-patch2\data\images\test\B8CBA366-532E-4545-A412-E846C87ECEC7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1251</xmin>
+			<ymin>1968</ymin>
+			<xmax>1399</xmax>
+			<ymax>2116</ymax>
+		</bndbox>
+	</object>
+</annotation>
